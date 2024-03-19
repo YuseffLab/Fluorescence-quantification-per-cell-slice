@@ -1,4 +1,4 @@
-# Fluorescence-quantification-per-cell-slice
+# Z stack multimeasure
 
 This repository contains the necesary .ijm macros and R scripts to analyze distinct measurements for each slice of Z-stack images.
 
